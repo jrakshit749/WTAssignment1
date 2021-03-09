@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ptg.xsl" type="text/xsl" ?>
+  <data>
+        <place>
+            
+            <name>The Island</name>
+            <body>
+                Using technology to travel.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex cupiditate atque sed. Maxime, debitis deleniti dolores illo iusto porro vitae? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos corrupti, quaerat 
+            </body>
+            <imgurl>/place 1.jpg</imgurl>
+            <url>/island.html</url>
+        </place>
+        <place>
+            <name>The Barren Land</name>
+            <body>
+                Using technology to travel.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex cupiditate atque sed. Maxime, debitis deleniti dolores illo iusto porro vitae? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos corrupti, quaerat 
+            </body>
+            <imgurl>/place 2.jpg</imgurl>
+            <url>/barren-land.html</url>
+        </place>
+        <place>
+            <name>The Beach</name>
+            <body>
+                Using technology to travel.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex cupiditate atque sed. Maxime, debitis deleniti dolores illo iusto porro vitae? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos corrupti, quaerat  
+            </body>
+            <imgurl>/place 3.jpg</imgurl>
+            <url>/beach.html</url>
+        </place>
+    </data>
